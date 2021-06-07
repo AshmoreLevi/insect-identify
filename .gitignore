@@ -1,0 +1,6 @@
+.git
+.vscode
+__pycache__
+checkpoint_dir
+logs
+train.sh
